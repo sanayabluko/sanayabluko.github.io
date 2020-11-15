@@ -1,0 +1,303 @@
+*{
+	padding: 0px;
+	margin:0;
+}
+.div_1{
+	height: 700px;
+	width: 100%;
+	text-align: center;
+}
+.div_2{
+	background: white;
+	height: 600px;
+	width: 100%;
+}
+.div_3{
+	background: #f6f5f3;
+	height: 600px;
+	width: 100%;
+}
+.div_4{
+	background: white;
+	height: 500px;
+	width: 100%;
+}
+.div_5{
+	height: 550px;
+	width: 100%;
+}
+.div_6{
+	background: white;
+	height: 700px;
+	width: 100%;
+}
+.div_7{
+	background: #323969;
+	height: 400px;
+	width: 100%;
+}
+.div_8{
+	background: white;
+	height: 300px;
+	width: 100%;
+}
+.img_2{
+	width: 100%;
+	height: 100%;
+}
+.img{
+	width: 100%;
+	height: 100%;
+}
+.epicslov{
+	position: absolute;
+	font-weight: 3px;
+	font-size: 60px;
+	text-align: center;
+	margin-left: 430px;
+	margin-top: 170px;
+}
+.epic{
+	position: absolute;
+	font-weight: 3px;
+	font-size: 60px;
+	margin-left: 340px;
+	margin-top: 240px;
+}
+.knop{
+	position: absolute;
+	background: #8285a4;
+	border-radius: 100px;
+	width: 50px;
+	height: 50px; 
+	margin-top: -360px;
+	margin-left: 600px;
+}
+.knop_img{
+	text-align: center;
+	vertical-align: center;
+	margin-top: 12px;
+	margin-left: 5px;
+	width: 25px;
+	height: 25px;
+
+}
+.a{
+	width: 100%;
+	height: 100%;
+}
+.knop_2{
+	position: absolute;
+	width: 190px;
+	height: 50px;
+	background: #FF6D6D;
+	margin-top: -270px;
+	margin-left: 535px;
+	border-radius: 3px
+}
+.p{
+	color: white;
+	margin-top: 15px;
+	font-family:bolt;
+}
+.p2{
+	position: absolute;
+	margin-top: -200px;
+	margin-left: 535px;
+}
+.img_3{
+	width: 400px;
+	height:100%;
+	margin-left: 910px;
+	margin-top:-376px;
+}
+.text{
+	width: 450px;
+	margin-left: 200px;
+
+}
+.d1{
+	position: absolute;
+	color: red;
+	font-size: 10px;
+	padding-top:120px;
+}
+.r1{
+	font-size: 40px;
+	padding-top: 140px;
+}
+.g{
+	color: grey;
+}
+.d2{
+	padding-top: 80px;
+	margin-left:580px;
+}
+.d3{
+	position: absolute;
+	margin-left: 500px;
+	margin-top: 100px;
+	font-size: 30px;
+}
+.bl1{
+	width: 360px;
+	margin-left:100px;
+}
+.bl2{
+	width: 360px;
+	margin-left: 500px
+}
+.bl3{
+	width: 360px;
+	margin-left:900px;
+}
+.BL{
+	margin-top: 350px;
+	position:absolute;
+}
+.dr1{
+	margin-left:50px ;
+	font-size: 20px;
+}
+.r4{
+	font-size: 10px
+	color: grey;
+}
+.dimg{
+	width: 620px;
+	height: 100%;
+}
+.ditext{
+	width: 620px;
+	height:100%;
+	margin-top: -300px;
+	margin-left:600px;
+}
+.img_4{
+	width: 620px;
+	height:100%;
+	margin-left: -70px;
+	margin-top:0px;
+}
+.d4{
+	color: red;
+	margin-bottom: 10px
+}
+.r5{
+	font-size: 11px;
+	width:300px;
+	margin-top: 20px;
+}
+.dnam{
+	position: absolute;
+	width: 360px;
+	margin-top: -370px;
+	margin-left: 50px;
+}
+.dnam2{
+	position: absolute;
+	margin-left:480px ;
+}
+.dnam3{
+	position: absolute;
+	margin-left: 900px;
+}
+.nam{
+	position: absolute;
+	margin-top: -20px;
+	margin-left: 120px;
+	font-size: 20px;
+	color:white;
+}
+.Co{
+	color: red;
+	margin-left: 130px;
+}
+.d5{
+
+	margin-left:00px;
+	margin-top:-140px;
+}
+.dsayt{
+	width: 450px;
+	position: absolute;
+	margin-left: 510px;
+	margin-top:100px;
+}
+.som{
+	position: absolute;
+	margin-left: 600px;
+	margin-top:-90px;
+}
+.t{
+	margin-left: -50px;
+}
+.sayt{
+	position: absolute;
+	margin-left: 250px;
+	margin-top: 310px;
+}
+.d6{
+	margin-top: -30px;
+	margin-left: 620px
+}
+.Ov{
+	position: absolute;
+	color: white;
+	margin-top: 120px;
+	margin-left: 470px
+
+}
+.Day{
+	position: absolute;
+	margin-left: 890px;
+	margin-top: 180px;
+}
+.full{
+	position: absolute;
+	margin-top: 200px;
+	margin-left: 300px;
+	background: #9497ae;
+	height: 30px;
+}
+.email{
+	position: absolute;
+	margin-top: 200px;
+	margin-left:500px;
+	background: #9497ae;
+	height: 30px;
+}
+.pass{
+	position: absolute;
+	margin-top: 200px;
+	margin-left: 700px;
+	background: #9497ae;
+	height: 30px;
+}
+.knop_3{
+	margin-top: 200px;
+	margin-left: 880px;
+	height: 35px;
+}
+.p1{
+	position: absolute;
+	margin-left: 60px;
+	margin-top: 7px;
+}
+.s1{
+	width: 300px;
+	margin-top:10px;
+}
+.s2{
+	margin-left: 320px;
+	margin-top:-100px;
+}
+.s3{
+	margin-left: 600px;
+	margin-top:-80px;
+}
+.te{
+	position: absolute;
+	margin-left: 800px;
+	margin-top: -50px
+}
